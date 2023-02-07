@@ -11,3 +11,8 @@ While the current focus is on Covid-19 research articles, this set of notebooks 
 * Research papers related to Covid-19 (source: ?link?)<br>
   * Curated data provided here- keyword_match_data.zip<br>
 * Data extracted from the Kegg database - externaldataset.zip
+
+## Usage
+The notebooks should be executed in the following order.<br>
+
+(will be updated soon)
