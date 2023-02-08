@@ -34,8 +34,8 @@ B) Identification of scientific keywords (obtained from external databases, give
 C) Perform Latent Dirichlet allocation (LDA) on the combined set of entities recognised from abstracts and keywords from external databases.<br>
 
 D) Visualization LDA results:<br>
-   We propose to visualize the importance of topics in a selected document and the broadness of topics in a single chart.<br><br>
-
+   We propose to visualize the importance of topics in a selected document and the broadness of topics in a single chart.<br>
+   
    We use a bubble chart as follows.<br>
 
    1. X-axis shows top N topics for a chosen document.<br>
