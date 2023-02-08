@@ -38,15 +38,12 @@ D) Visualization LDA results:<br>
 
    We use a bubble chart as follows.<br>
 
-     1. X-axis shows top N topics for a chosen document.<br>
-
-     2. Y-axis denotes how much importance of the topic in the document.<br>
-        (Higher the y-value, more the importance of the topic in this document.)<br>
-
-     3. Radius of the bubble denotes in how many other documents this topic is important.<br>
-        The importance can be set using a threshold.<br>
-        (Larger the radius, higher chances of finding a similar document. Or, smaller the radius, more unique is the document.)<br>
-
+   1. X-axis shows top N topics for a chosen document.<br>
+   2. Y-axis denotes how much importance of the topic in the document.<br>
+      (Higher the y-value, more the importance of the topic in this document.)<br>
+   3. Radius of the bubble denotes in how many other documents this topic is important.<br>
+      The importance can be set using a threshold.<br>
+      (Larger the radius, higher chances of finding a similar document. Or, smaller the radius, more unique is the document.)<br>
 
 #### Data sources
 Research article data is taken from https://pages.semanticscholar.org/coronavirus-research<br>
