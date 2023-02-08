@@ -80,38 +80,38 @@ Topics obtained from an example run with n_topics=10 (represented by top 10 cont
   '0.024*"serum" + 0.023*"pedv" + 0.021*"animal" + 0.018*"porcine" + '  
   '0.018*"pig" + 0.018*"group"'),  
  (2,  
-  '0.049*"protein" + 0.047*"virus" + 0.027*"cell" + 0.026*"viral" + '
-  '0.024*"rna" + 0.023*"gene" + 0.020*"host" + 0.016*"sequence" + '
-  '0.013*"replication" + 0.013*"human"'),
- (3,
-  '0.034*"drug" + 0.023*"hepatitis c" + 0.021*"domain" + 0.017*"ethanol" + '
-  '0.016*"hepatitis c virus" + 0.015*"glucose" + 0.015*"calcium" + '
-  '0.015*"compound" + 0.014*"rosin" + 0.014*"serine"'),
- (4,
-  '0.083*"disease" + 0.063*"health" + 0.034*"population" + 0.033*"infectious" '
-  '+ 0.029*"public" + 0.028*"country" + 0.026*"human" + 0.023*"pandemic" + '
-  '0.022*"risk" + 0.020*"global"'),
- (5,
-  '0.045*"model" + 0.044*"covid" + 0.042*"19" + 0.030*"study" + 0.030*"datum" '
-  '+ 0.023*"analysis" + 0.020*"epidemic" + 0.018*"method" + 0.018*"level" + '
-  '0.017*"preprint"'),
- (6,
-  '0.019*"severe acute respiratory syndrome" + 0.017*"pain" + '
-  '0.011*"tuberculosis" + 0.011*"oxygen" + 0.009*"measles" + '
-  '0.009*"respiratory syncytial virus" + 0.008*"staphylococcus aureus" + '
-  '0.008*"respiratory distress" + 0.007*"rash" + 0.007*"wine"'),
- (7,
-  '0.071*"virus" + 0.042*"infection" + 0.032*"respiratory" + 0.028*"influenza" '
-  '+ 0.027*"viral" + 0.023*"positive" + 0.023*"pcr" + 0.019*"sample" + '
-  '0.017*"study" + 0.017*"human"'),
- (8,
-  '0.064*"sars" + 0.061*"patient" + 0.059*"cov" + 0.039*"case" + '
-  '0.022*"infection" + 0.020*"severe" + 0.020*"coronavirus" + '
-  '0.020*"transmission" + 0.019*"respiratory" + 0.015*"acute"'),
- (9,
-  '0.079*"assay" + 0.056*"detection" + 0.050*"test" + 0.042*"diagnostic" + '
-  '0.041*"sensitivity" + 0.037*"sample" + 0.035*"specificity" + 0.028*"dna" + '
-  '0.027*"testing" + 0.024*"cat"')]
+  '0.049*"protein" + 0.047*"virus" + 0.027*"cell" + 0.026*"viral" + '  
+  '0.024*"rna" + 0.023*"gene" + 0.020*"host" + 0.016*"sequence" + '  
+  '0.013*"replication" + 0.013*"human"'),  
+ (3,  
+  '0.034*"drug" + 0.023*"hepatitis c" + 0.021*"domain" + 0.017*"ethanol" + '  
+  '0.016*"hepatitis c virus" + 0.015*"glucose" + 0.015*"calcium" + '  
+  '0.015*"compound" + 0.014*"rosin" + 0.014*"serine"'),  
+ (4,  
+  '0.083*"disease" + 0.063*"health" + 0.034*"population" + 0.033*"infectious" '  
+  '+ 0.029*"public" + 0.028*"country" + 0.026*"human" + 0.023*"pandemic" + '  
+  '0.022*"risk" + 0.020*"global"'),  
+ (5,  
+  '0.045*"model" + 0.044*"covid" + 0.042*"19" + 0.030*"study" + 0.030*"datum" '  
+  '+ 0.023*"analysis" + 0.020*"epidemic" + 0.018*"method" + 0.018*"level" + '  
+  '0.017*"preprint"'),  
+ (6,  
+  '0.019*"severe acute respiratory syndrome" + 0.017*"pain" + '  
+  '0.011*"tuberculosis" + 0.011*"oxygen" + 0.009*"measles" + '  
+  '0.009*"respiratory syncytial virus" + 0.008*"staphylococcus aureus" + '  
+  '0.008*"respiratory distress" + 0.007*"rash" + 0.007*"wine"'),  
+ (7,  
+  '0.071*"virus" + 0.042*"infection" + 0.032*"respiratory" + 0.028*"influenza" '  
+  '+ 0.027*"viral" + 0.023*"positive" + 0.023*"pcr" + 0.019*"sample" + '  
+  '0.017*"study" + 0.017*"human"'),  
+ (8,  
+  '0.064*"sars" + 0.061*"patient" + 0.059*"cov" + 0.039*"case" + '  
+  '0.022*"infection" + 0.020*"severe" + 0.020*"coronavirus" + '  
+  '0.020*"transmission" + 0.019*"respiratory" + 0.015*"acute"'),  
+ (9,  
+  '0.079*"assay" + 0.056*"detection" + 0.050*"test" + 0.042*"diagnostic" + '  
+  '0.041*"sensitivity" + 0.037*"sample" + 0.035*"specificity" + 0.028*"dna" + '  
+  '0.027*"testing" + 0.024*"cat"')]  
 
 #### Visualization
 Please see images<br>
