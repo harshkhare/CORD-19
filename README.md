@@ -71,15 +71,15 @@ NOTE: All intermediate output files are also provided.<br>
 
 Topics obtained from an example run with n_topics=10 (represented by top 10 contributing entities):<br>
 
-[(0,
-  '0.074*"cell" + 0.056*"infection" + 0.041*"response" + 0.027*"immune" + '
-  '0.023*"mouse" + 0.021*"expression" + 0.018*"effect" + 0.018*"symptom" + '
-  '0.017*"treatment" + 0.016*"increase"'),
- (1,
-  '0.058*"vaccine" + 0.050*"day" + 0.050*"antibody" + 0.042*"strain" + '
-  '0.024*"serum" + 0.023*"pedv" + 0.021*"animal" + 0.018*"porcine" + '
-  '0.018*"pig" + 0.018*"group"'),
- (2,
+[(0,  
+  '0.074*"cell" + 0.056*"infection" + 0.041*"response" + 0.027*"immune" + '  
+  '0.023*"mouse" + 0.021*"expression" + 0.018*"effect" + 0.018*"symptom" + '  
+  '0.017*"treatment" + 0.016*"increase"'),  
+ (1,  
+  '0.058*"vaccine" + 0.050*"day" + 0.050*"antibody" + 0.042*"strain" + '  
+  '0.024*"serum" + 0.023*"pedv" + 0.021*"animal" + 0.018*"porcine" + '  
+  '0.018*"pig" + 0.018*"group"'),  
+ (2,  
   '0.049*"protein" + 0.047*"virus" + 0.027*"cell" + 0.026*"viral" + '
   '0.024*"rna" + 0.023*"gene" + 0.020*"host" + 0.016*"sequence" + '
   '0.013*"replication" + 0.013*"human"'),
